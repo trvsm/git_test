@@ -1,0 +1,3 @@
+Git status will only show items changed since last commit; the exercise took through a commit to add hello_world
+Adding README.md as a separate commit only shows README.md in the log
+command git add . adds all files in current and sub directories to staging area.
